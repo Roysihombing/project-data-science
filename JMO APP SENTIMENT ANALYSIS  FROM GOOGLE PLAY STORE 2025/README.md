@@ -52,5 +52,3 @@ The analysis includes **data scraping, text preprocessing, sentiment labeling, a
 
 ---
 
-### License
-This project is licensed under the **MIT License** – free to use and adapt.
