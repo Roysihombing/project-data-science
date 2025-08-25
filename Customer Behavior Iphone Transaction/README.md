@@ -14,7 +14,7 @@ Analyze **iPhone sales transactions in Indonesia (2022–2024)** to:
 ## Overview
 
 ### Customer Segmentation
-![Customer Segmentation](Customer%20Behavior%20Iphone%20Transaction/image/Customer%20Segmentation.png)
+![Customer Segmentation](image/Customer%20Segmentation.png)
 
 ### Sales Performance
 ![Sales Performance](Customer%20Behavior%20Iphone%20Transaction/image/Sales%20Peformance.png)
