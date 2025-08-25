@@ -14,10 +14,10 @@ Analyze **iPhone sales transactions in Indonesia (2022–2024)** to:
 ## Overview
 
 ### Customer Segmentation
-![Customer Segmentation](../image/Customer%20Segmentation.png)
+![Customer Segmentation](image/Customer%20Segmentation.png)
 
 ### Sales Performance
-![Sales Performance](../image/Sales%20Peformance.png)
+![Sales Performance](image/Sales%20Peformance.png)
 
 ---
 
@@ -48,6 +48,3 @@ Analyze **iPhone sales transactions in Indonesia (2022–2024)** to:
 - [Portfolio](https://roy-firman-sihombing.free.nf)  
 
 ---
-
-### License
-This project is licensed under the **MIT License** – free to use and adapt.
