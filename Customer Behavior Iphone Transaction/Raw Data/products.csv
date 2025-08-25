@@ -1,0 +1,13 @@
+product_id,product_name,category,brand,price,description,discount,storage,color,release_year,years_since_release,sales_factor,preferred_product_id
+1,iPhone 15,Smartphone,Apple,12000000,Accusantium enim inventore optio eum quam atque.,15,128GB,Black,2023,1,0.9,1
+2,iPhone 15 Plus,Smartphone,Apple,13000000,Quisquam officiis eaque iste quidem voluptate eius vel.,15,256GB,Blue,2023,1,0.9,2
+3,iPhone 15 Pro,Smartphone,Apple,16000000,Necessitatibus blanditiis veritatis quibusdam.,10,512GB,Silver,2023,1,0.9,3
+4,iPhone 15 Pro Max,Smartphone,Apple,18000000,Perspiciatis omnis minus.,5,1TB,Gold,2023,1,0.9,4
+5,iPhone 14,Smartphone,Apple,11000000,Adipisci unde excepturi placeat saepe iusto.,15,128GB,Red,2022,2,0.8,5
+6,iPhone 14 Plus,Smartphone,Apple,12000000,Dicta aut doloremque perferendis dolor aut dolor.,5,256GB,Green,2022,2,0.8,6
+7,iPhone 14 Pro,Smartphone,Apple,15000000,Veritatis quam nemo provident id.,5,512GB,Purple,2022,2,0.8,7
+8,iPhone 14 Pro Max,Smartphone,Apple,17000000,Veritatis perferendis magnam velit.,0,128GB,Yellow,2022,2,0.8,8
+9,iPhone SE (3rd Gen),Smartphone,Apple,7000000,Minima iusto laudantium vitae ipsam amet.,5,64GB,White,2021,3,0.5,9
+10,iPhone 13,Smartphone,Apple,10000000,Quasi repellat dolor aliquid incidunt sed fugit sed.,15,128GB,Pink,2021,3,0.6,10
+11,iPhone 13 Pro,Smartphone,Apple,13000000,Voluptates temporibus odio consectetur laboriosam.,15,256GB,Silver,2021,3,0.7,11
+12,iPhone 13 Pro Max,Smartphone,Apple,15000000,Et delectus quam et dolorem.,5,512GB,Space Gray,2021,3,0.7,12
