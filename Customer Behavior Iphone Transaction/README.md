@@ -3,34 +3,43 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 
+## Objective
+Analyze **iPhone sales transactions in Indonesia (2022–2024)** to:
+- Identify high-value & at-risk customers  
+- Understand purchasing trends by location, time, and demographics  
+- Optimize discount & pricing strategies for better retention and sales  
+
+---
+
 ## Overview
-Analysis of **iPhone sales transactions in Indonesia (2022–2024)** to uncover:
-- Customer segmentation & high-value customers  
-- Purchasing trends by age, location, and time  
-- Optimal discount & pricing strategies  
 
-Built with **Python** for data cleaning & EDA, and **Power BI** for interactive dashboards.
+### Customer Segmentation
+![Customer Segmentation](Customer%20Behavior%20Iphone%20Transaction/image/Customer%20Segmentation.png)
 
-## Dataset
-- ~125k transactions after cleaning  
-- 37k unique customers  
-- Period: 2022–2024  
+### Sales Performance
+![Sales Performance](Customer%20Behavior%20Iphone%20Transaction/image/Sales%20Peformance.png)
+
+---
 
 ## Key Insights
 - **Top product:** iPhone 14 Pro  
-- **Main buyers:** 26–45 y/o, dominated by Jakarta  
-- **Popular storage:** 512GB & 256GB  
-- Discounts drive purchase decisions  
+- **Popular storages:** 512GB (long-term users), 256GB (balanced), 128GB (entry level)  
+- **Dominant buyers:** Ages 26–45, mainly from Jakarta  
+- **Discounts drive majority of transactions**, especially among Loyal Customers  
+
+---
 
 ## Recommendations
-- Re-engage **At Risk** customers (26–45 y/o)  
-- Loyalty programs for **Champions & Loyal Customers in Jakarta**  
-- Target **Bandung & Yogyakarta** with iPhone 14 Pro (512/256GB) bundles  
-- Adjust discount strategies per segment  
+1. Reactivate **At Risk customers (26–45 y/o)** with personalized promotions  
+2. Offer **exclusive loyalty programs** for Champions & Loyal Customers in Jakarta  
+3. Target **Bandung & Yogyakarta** with bundles (iPhone 14 Pro, 512GB/256GB)  
+4. **Segment-based discount strategy** to increase purchase frequency without hurting margins  
+
+---
 
 ## Tech Stack
 - **Python**: Pandas, Matplotlib, Seaborn  
-- **Power BI**: Sales & Segmentation Dashboards  
+- **Power BI**: Interactive dashboards  
 
 ## Author
 **Roy Firman Sihombing**  
@@ -40,13 +49,5 @@ Built with **Python** for data cleaning & EDA, and **Power BI** for interactive 
 
 ---
 
-### How to Use
-1. Clone this repository  
-2. Access dataset in `/data` folder (if available)  
-3. Run the Python notebooks for EDA  
-4. Open the Power BI dashboard (`.pbix`) for visualization  
-
----
-
 ### License
-This project is licensed under the **MIT License** – feel free to use and adapt.
+This project is licensed under the **MIT License** – free to use and adapt.
