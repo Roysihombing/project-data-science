@@ -13,12 +13,19 @@ Analyze **iPhone sales transactions in Indonesia (2022–2024)** to:
 
 ## Overview
 
-### Customer Segmentation
-![Customer Segmentation](image/Customer%20Segmentation.png)
+<p align="center" style="color:red; font-weight:bold; font-size:18px;">
+Customer Segmentation
+</p>
+<p align="center">
+  <img src="image/Customer%20Segmentation.png" alt="Customer Segmentation" width="600">
+</p>
 
-### Sales Performance
-![Sales Performance](image/Sales%20Peformance.png)
-
+<p align="center" style="color:red; font-weight:bold; font-size:18px;">
+Sales Performance
+</p>
+<p align="center">
+  <img src="image/Sales%20Peformance.png" alt="Sales Performance" width="600">
+</p>
 ---
 
 ## Key Insights
